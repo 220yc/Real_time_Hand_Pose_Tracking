@@ -1,2 +1,2 @@
-# Real-time-Hand-Joint-Tracking
-Real-time Hand Joint Tracking (Image Recognition + Python)
+# Hand Pose Tracking
+Real time Hand Pose Tracking (Image Recognition + Python)
